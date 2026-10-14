@@ -27,7 +27,6 @@ Blumenau, SC &nbsp;•&nbsp; Desenvolvimento de Sistemas &nbsp;•&nbsp; Em busc
 [Sobre](#sobre-mim) •
 [Tecnologias](#tecnologias) •
 [Projetos](#projetos) •
-[Atividade](#atividade-no-github) •
 [Contato](#contato)
 
 </div>
@@ -159,15 +158,6 @@ Projeto de banco de dados para uma loja de produtos eletrônicos.
 **Tecnologias:** `MySQL` `SQL`
 
 </details>
-
----
-
-## Atividade no GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LipinnDEV&show_icons=true&theme=default&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipinnDEV&layout=compact&theme=default&hide_border=true" alt="Linguagens mais usadas" />
-</p>
 
 ---
 
