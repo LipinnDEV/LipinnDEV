@@ -1,28 +1,32 @@
 # Felipe Mousinho
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Java<br>
-  Estagiário em Suporte de Sistemas | Desenvolvimento de Software
+  <strong>Estudante de Desenvolvimento de Sistemas | Desenvolvedor Java</strong><br>
+  Buscando estágio em desenvolvimento de software
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://www.linkedin.com/in/felipe-da-silva-mousinho-417a85443">
+    <img src="https://img.shields.io/badge/LinkedIn-Conecte--se comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:mousinhofelipe857@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-Entre%20em%20contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
 </p>
 
 ---
 
 ## Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e tenho interesse em desenvolvimento de software, com foco em back-end utilizando Java e Spring Boot.
+Sou estudante de Desenvolvimento de Sistemas no SENAI Blumenau, interessado em desenvolvimento de software, principalmente na área back-end com Java.
 
-Busco aplicar meus conhecimentos em projetos práticos, desenvolvendo APIs REST, trabalhando com bancos de dados relacionais e explorando tecnologias para aplicações web.
+Busco evoluir por meio de projetos práticos, aplicando conceitos de programação, orientação a objetos, APIs REST e bancos de dados relacionais.
 
-Atualmente, estou aprofundando meus conhecimentos em programação orientada a objetos, desenvolvimento de APIs, SQL, React e TypeScript.
+Também tenho experiência com suporte de sistemas, área que contribui para meu aprendizado na resolução de problemas e no entendimento das necessidades dos usuários.
 
-Tenho interesse em oportunidades de estágio e posições júnior na área de desenvolvimento de software.
+Meu objetivo é conquistar uma oportunidade de estágio em desenvolvimento de software, ampliar meus conhecimentos e colaborar com projetos reais.
 
-## Tecnologias
+## Tecnologias e ferramentas
 
 **Back-end**
 - Java
@@ -38,70 +42,82 @@ Tenho interesse em oportunidades de estágio e posições júnior na área de de
 
 **Banco de dados**
 - MySQL
+- SQL
 
 **Ferramentas**
-- Git e GitHub
+- Git
+- GitHub
 - Docker
 - IntelliJ IDEA
 - Visual Studio Code
 
-## Projetos em destaque
+## Projetos
 
 ### DevFlow
 
-API REST para gerenciamento de projetos, tarefas e equipes, desenvolvida com Java e Spring Boot.
+API REST para gerenciamento de projetos e tarefas, desenvolvida com foco em Java e Spring Boot.
 
-- Autenticação e autorização com JWT
-- Persistência de dados com MySQL
-- Arquitetura organizada em camadas
+- Organização da aplicação em camadas
+- Integração com banco de dados MySQL
+- Estudo de autenticação e autorização com JWT
 
-**Tecnologias:** Java, Spring Boot, MySQL, JWT.
+**Tecnologias:** Java, Spring Boot, MySQL, Maven.
 
 ### CodeSpeed Trainer
 
-Aplicação de treinamento de digitação com foco em velocidade, precisão e prática da língua portuguesa.
+Aplicação de treinamento de digitação com foco em velocidade, precisão e evolução do usuário.
 
-- Sistema de pontuação e progressão por níveis
+- Sistema de pontuação e progressão
 - Registro de recordes e desempenho
-- Interface interativa para sessões de treinamento
+- Interface interativa
 
-**Tecnologias:** React, TypeScript.
+**Tecnologias:** React, TypeScript, JavaScript.
 
-### ProLife
+### SafeKey
 
-Simulador de carreira profissional no qual as decisões do jogador influenciam sua trajetória, desde o início da carreira até posições mais avançadas.
+Gerador de senhas desenvolvido em Java com interface gráfica.
 
-- Sistema de escolhas e consequências
-- Progressão profissional
-- Desafios e oportunidades ao longo da jornada
+- Geração de senhas personalizadas
+- Seleção de tipos de caracteres
+- Recurso para copiar senhas
 
-**Tecnologias:** HTML, CSS e JavaScript.
+**Tecnologias:** Java, Swing, Maven.
 
 ### Event-Plus
 
 Projeto de banco de dados para gerenciamento de eventos, participantes, organizadores, categorias e inscrições.
 
 - Modelagem de dados relacionais
-- Definição de chaves primárias e estrangeiras
-- Aplicação de restrições de integridade
+- Uso de chaves primárias e estrangeiras
+- Restrições de integridade
 
 **Tecnologias:** MySQL, SQL.
 
 ### Loja-eletronicos
 
-Projeto de modelagem de banco de dados para uma loja virtual de produtos eletrônicos.
+Projeto de banco de dados para uma loja de produtos eletrônicos.
 
-- Estruturação de tabelas e relacionamentos
+- Modelagem de tabelas e relacionamentos
 - Organização dos dados de produtos
 - Aplicação de conceitos de integridade referencial
 
 **Tecnologias:** MySQL, SQL.
 
+### ProLife
+
+Simulador de carreira profissional baseado em escolhas e consequências.
+
+- Progressão profissional
+- Sistema de decisões
+- Desafios ao longo da jornada
+
+**Tecnologias:** HTML, CSS, JavaScript.
+
 ## Contato
 
-Estou aberto a feedbacks, troca de conhecimentos e oportunidades profissionais na área de tecnologia.
-
-- **E-mail:** mousinhofelipe857@gmail.com
+- **LinkedIn:** [Felipe Mousinho](https://www.linkedin.com/in/felipe-da-silva-mousinho-417a85443)
+- **GitHub:** [LipinnDEV](https://github.com/LipinnDEV)
+- **E-mail:** [mousinhofelipe857@gmail.com](mailto:mousinhofelipe857@gmail.com)
 
 ---
 
