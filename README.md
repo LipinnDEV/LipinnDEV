@@ -1,74 +1,110 @@
-<h1 align="center">Olá, eu sou o Felipe Mousinho 👋</h1>
+# Felipe Mousinho
+
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas · Desenvolvedor Java<br>
-  Estagiário em Suporte de Sistemas · Construindo projetos para evoluir na prática
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Java<br>
+  Estagiário em Suporte de Sistemas | Desenvolvimento de Software
 </p>
 
-👨‍💻 Sobre mim
-Meu foco é back-end com Java e Spring Boot. Gosto de transformar o que aprendo em projetos reais: APIs REST com autenticação, modelagem de bancos de dados relacionais e interfaces web com React e TypeScript.
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"></a>
+</p>
 
-🔭 Em foco agora: APIs REST com Spring Boot, SQL e boas práticas de código
-🌱 Estudando: POO em Java, React + TypeScript, Git e organização de projetos
-💼 Buscando: oportunidades de estágio ou vaga júnior em desenvolvimento
+---
 
-🛠️ Tecnologias
-Back-end
-Java
-Spring Boot
-Maven
-Front-end
-JavaScript
-TypeScript
-React
-HTML5
-CSS3
-Banco de dados
-MySQL
-Ferramentas
-Git
-GitHub
-Docker
-IntelliJ IDEA
-VS Code
+## Sobre mim
 
+Sou estudante de Análise e Desenvolvimento de Sistemas e tenho interesse em desenvolvimento de software, com foco em back-end utilizando Java e Spring Boot.
 
-📌 Projetos em destaque
-🔹 DevFlow
-API REST para gerenciamento de projetos, tarefas e equipes.
+Busco aplicar meus conhecimentos em projetos práticos, desenvolvendo APIs REST, trabalhando com bancos de dados relacionais e explorando tecnologias para aplicações web.
 
-Autenticação com JWT
-Persistência em MySQL
-Arquitetura em camadas
-Java Spring Boot MySQL JWT
+Atualmente, estou aprofundando meus conhecimentos em programação orientada a objetos, desenvolvimento de APIs, SQL, React e TypeScript.
 
-🔹 CodeSpeed Trainer
-Jogo de digitação focado em velocidade, precisão e prática de português.
+Tenho interesse em oportunidades de estágio e posições júnior na área de desenvolvimento de software.
 
-Sistema de pontuação e níveis
-Recordes e acompanhamento de desempenho
-React TypeScript
+## Tecnologias
 
-🔹 ProLife
-Simulador de vida profissional em que cada decisão molda a trajetória: do iniciante ao topo da carreira, enfrentando desafios, escolhas e oportunidades.
-ADICIONE A STACK AQUI
+**Back-end**
+- Java
+- Spring Boot
+- Maven
 
-🔹 Event-Plus
-Banco de dados para gerenciamento de eventos, com tabelas de categorias, organizadores, participantes, eventos e inscrições, incluindo relacionamentos, chaves e restrições.
-MySQL SQL
+**Front-end**
+- JavaScript
+- TypeScript
+- React
+- HTML5
+- CSS3
 
-🔹 Loja-eletronicos
-Banco de dados para uma loja virtual de produtos de tecnologia, desenvolvido para um desafio de modelagem e relacionamentos entre tabelas.
-MySQL SQL
+**Banco de dados**
+- MySQL
 
+**Ferramentas**
+- Git e GitHub
+- Docker
+- IntelliJ IDEA
+- Visual Studio Code
 
-📫 Vamos conversar?
-Estou aberto a feedbacks, trocas de experiência e oportunidades.
+## Projetos em destaque
 
-💼 LinkedIn: linkedin.com/in/SEU-USUARIO
-📧 E-mail: seu-email@exemplo.com
+### DevFlow
 
-<p align="center"><i>Em constante aprendizado, desenvolvendo projetos e evoluindo como programador.</i></p>
+API REST para gerenciamento de projetos, tarefas e equipes, desenvolvida com Java e Spring Boot.
+
+- Autenticação e autorização com JWT
+- Persistência de dados com MySQL
+- Arquitetura organizada em camadas
+
+**Tecnologias:** Java, Spring Boot, MySQL, JWT.
+
+### CodeSpeed Trainer
+
+Aplicação de treinamento de digitação com foco em velocidade, precisão e prática da língua portuguesa.
+
+- Sistema de pontuação e progressão por níveis
+- Registro de recordes e desempenho
+- Interface interativa para sessões de treinamento
+
+**Tecnologias:** React, TypeScript.
+
+### ProLife
+
+Simulador de carreira profissional no qual as decisões do jogador influenciam sua trajetória, desde o início da carreira até posições mais avançadas.
+
+- Sistema de escolhas e consequências
+- Progressão profissional
+- Desafios e oportunidades ao longo da jornada
+
+**Tecnologias:** HTML, CSS e JavaScript.
+
+### Event-Plus
+
+Projeto de banco de dados para gerenciamento de eventos, participantes, organizadores, categorias e inscrições.
+
+- Modelagem de dados relacionais
+- Definição de chaves primárias e estrangeiras
+- Aplicação de restrições de integridade
+
+**Tecnologias:** MySQL, SQL.
+
+### Loja-eletronicos
+
+Projeto de modelagem de banco de dados para uma loja virtual de produtos eletrônicos.
+
+- Estruturação de tabelas e relacionamentos
+- Organização dos dados de produtos
+- Aplicação de conceitos de integridade referencial
+
+**Tecnologias:** MySQL, SQL.
+
+## Contato
+
+Estou aberto a feedbacks, troca de conhecimentos e oportunidades profissionais na área de tecnologia.
+
+- **E-mail:** mousinhofelipe857@gmail.com
+
+---
+
+<p align="center">
+  <i>Em constante evolução, transformando conhecimento em projetos.</i>
+</p>
