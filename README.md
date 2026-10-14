@@ -1,14 +1,18 @@
+<a id="topo"></a>
+
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=130&section=header" alt="" width="100%" />
 
 # Felipe Mousinho
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0A66C2&center=true&vCenter=true&width=520&lines=Estudante+de+Desenvolvimento+de+Sistemas;Foco+em+Java+e+back-end;Aprendendo+na+pr%C3%A1tica%2C+um+projeto+por+vez" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0A66C2&center=true&vCenter=true&width=520&lines=Estudante+de+Desenvolvimento+de+Sistemas;Foco+em+Java+e+back-end;Aprendendo+na+pr%C3%A1tica%2C+um+projeto+por+vez" alt="Estudante de Desenvolvimento de Sistemas | Foco em Java e back-end" />
 </a>
 
 <br>
 
-Blumenau, SC &nbsp;•&nbsp; Desenvolvimento de Sistemas &nbsp;•&nbsp; Em busca de oportunidades em TI
+Blumenau, SC &nbsp;•&nbsp; Desenvolvimento de Sistemas
 
 <br>
 
@@ -19,15 +23,16 @@ Blumenau, SC &nbsp;•&nbsp; Desenvolvimento de Sistemas &nbsp;•&nbsp; Em busc
   <img src="https://img.shields.io/badge/E--mail-Fale%20comigo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
 </a>
 <a href="https://github.com/LipinnDEV?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios">
+  <img src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios no GitHub">
 </a>
 
 <br><br>
 
-[Sobre](#sobre-mim) •
-[Trajetória](#trajetória) •
-[Tecnologias](#tecnologias) •
-[Projetos](#projetos) •
+[Sobre](#sobre-mim) &nbsp;|&nbsp;
+[Trajetória](#trajetória) &nbsp;|&nbsp;
+[Foco e metas](#foco-e-metas) &nbsp;|&nbsp;
+[Tecnologias](#tecnologias) &nbsp;|&nbsp;
+[Projetos](#projetos) &nbsp;|&nbsp;
 [Contato](#contato)
 
 </div>
@@ -36,57 +41,83 @@ Blumenau, SC &nbsp;•&nbsp; Desenvolvimento de Sistemas &nbsp;•&nbsp; Em busc
 
 ## Sobre mim
 
-Sou estudante de **Desenvolvimento de Sistemas** em Blumenau, com interesse em desenvolvimento de software, principalmente **back-end com Java**.
+Olá, eu sou o Felipe, mas muita gente me chama de Lipin. Sou estudante de **Desenvolvimento de Sistemas** em Blumenau, com interesse em desenvolvimento de software, principalmente **back-end com Java**.
 
-Aprendo construindo projetos práticos, aplicando:
+Também sou estagiário em suporte de sistemas na Prefeitura de Blumenau, onde lido com problemas reais de tecnologia e aprendo a analisar situações com calma e a buscar soluções com método.
 
-- Programação orientada a objetos
-- Desenvolvimento de APIs REST
-- Bancos de dados relacionais
+| | |
+| :-- | :-- |
+| **Foco** | Desenvolvimento back-end com Java |
+| **Estudando agora** | Java, banco de dados (MySQL), lógica de programação e desenvolvimento web |
+| **Na prática** | Programação orientada a objetos, APIs REST e bancos de dados relacionais |
+| **Estudo** | Ensino Médio Integrado em Desenvolvimento de Sistemas, SESI Blumenau |
+| **Atualmente** | Estagiário em Suporte de Sistemas, Gerência de Cobrança da SEFAZ, Prefeitura de Blumenau |
+| **Objetivo** | Conquistar minha primeira oportunidade em TI, ampliar meus conhecimentos e colaborar em projetos reais |
 
-Minha vivência com suporte de sistemas me ajuda a analisar problemas com calma e a buscar soluções com método.
-
-**Estudando agora:** Java, banco de dados (MySQL), lógica de programação e desenvolvimento web.
-
-**Objetivo:** conquistar uma oportunidade em desenvolvimento de software, ampliar meus conhecimentos e colaborar em projetos reais.
+<p align="right"><a href="#topo">Voltar ao topo</a></p>
 
 ---
 
 ## Trajetória
 
-| Período | O que faço |
+| Quando | O que aconteceu |
 | :-- | :-- |
-| **Desde março de 2026** | **Estagiário em Suporte de Sistemas** na SEFAZ (Secretaria da Fazenda), Prefeitura de Blumenau |
-| **Conclusão prevista em 2027** | **Ensino Médio Integrado em Desenvolvimento de Sistemas**, em Blumenau |
-| **Próximo passo** | Cursar **Engenharia de Software** depois do Ensino Médio |
+| **Desde março de 2026** | **Estagiário em Suporte de Sistemas** na Gerência de Cobrança da SEFAZ (Secretaria da Fazenda), Prefeitura de Blumenau |
+| **2026** | Cursando o 2º ano do **Ensino Médio Integrado em Desenvolvimento de Sistemas**, no SESI Blumenau |
+| **2027** | Conclusão prevista do Ensino Médio Integrado |
+| **Depois** | Cursar **Engenharia de Software** |
+
+<p align="right"><a href="#topo">Voltar ao topo</a></p>
+
+---
+
+## Foco e metas
+
+**Em andamento**
+
+- Aprender Java e aprofundar meus conhecimentos em back-end
+- Desenvolver projetos como o CodeSpeed Trainer e o ProLife
+- Construir meu portfólio profissional e organizar este GitHub
+- Ganhar experiência real no estágio em suporte de sistemas
+
+**Próximas metas**
+
+- [ ] Conquistar meu primeiro emprego na área de TI
+- [ ] Concluir o Ensino Médio Integrado em Desenvolvimento de Sistemas
+- [ ] Cursar Engenharia de Software
+
+<p align="right"><a href="#topo">Voltar ao topo</a></p>
 
 ---
 
 ## Tecnologias
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,js,ts,react,html,css,mysql,git,github,docker,idea,vscode" alt="Tecnologias" />
-</p>
+| Área | Ícones | Tecnologias |
+| :-- | :-- | :-- |
+| **Back-end** | <img src="https://skillicons.dev/icons?i=java,spring,maven" alt="Java, Spring Boot, Maven" height="40" /> | Java, Spring Boot, Maven |
+| **Front-end** | <img src="https://skillicons.dev/icons?i=js,ts,react,html,css" alt="JavaScript, TypeScript, React, HTML5, CSS3" height="40" /> | JavaScript, TypeScript, React, HTML5, CSS3 |
+| **Banco de dados** | <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40" /> | MySQL, SQL |
+| **Ferramentas** | <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode" alt="Git, GitHub, Docker, IntelliJ IDEA, Visual Studio Code" height="40" /> | Git, GitHub, Docker, IntelliJ IDEA, Visual Studio Code |
+| **Suporte e sistemas** | | Suporte de sistemas, análise e resolução de problemas |
 
-| Área | Tecnologias |
-| :-- | :-- |
-| **Back-end** | Java, Spring Boot, Maven |
-| **Front-end** | JavaScript, TypeScript, React, HTML5, CSS3 |
-| **Banco de dados** | MySQL, SQL |
-| **Ferramentas** | Git, GitHub, Docker, IntelliJ IDEA, Visual Studio Code |
+<p align="right"><a href="#topo">Voltar ao topo</a></p>
 
 ---
 
 ## Projetos
 
-| Projeto | Descrição | Stack |
+Visão geral dos meus projetos. Clique em um deles, logo abaixo da tabela, para ver os detalhes.
+
+| Projeto | Tipo | Stack |
 | :-- | :-- | :-- |
-| [**DevFlow**](https://github.com/LipinnDEV/DevFlow) | API REST para gerenciar projetos e tarefas | Java • Spring Boot • MySQL |
-| [**CodeSpeed Trainer**](https://github.com/LipinnDEV/CodeSpeed-Trainer) | Treino de digitação com pontuação e recordes | React • TypeScript |
-| [**SafeKey**](https://github.com/LipinnDEV/SafeKey) | Gerador de senhas com interface gráfica | Java • Swing |
-| [**ProLife**](https://github.com/LipinnDEV/ProLife) | Simulador de carreira baseado em escolhas | HTML • CSS • JavaScript |
-| [**Event-Plus**](https://github.com/LipinnDEV/Event-Plus) | Banco de dados para gestão de eventos | MySQL • SQL |
-| [**Loja de Eletrônicos**](https://github.com/LipinnDEV/Loja-de-Eletronicos) | Banco de dados para uma loja de eletrônicos | MySQL • SQL |
+| [**DevFlow**](https://github.com/LipinnDEV/DevFlow) | API REST | Java, Spring Boot, MySQL |
+| [**CodeSpeed Trainer**](https://github.com/LipinnDEV/CodeSpeed-Trainer) | Aplicação web | React, TypeScript |
+| [**SafeKey**](https://github.com/LipinnDEV/SafeKey) | Aplicação desktop | Java, Swing |
+| [**ProLife**](https://github.com/LipinnDEV/ProLife) | Aplicação web | HTML, CSS, JavaScript |
+| [**Event-Plus**](https://github.com/LipinnDEV/Event-Plus) | Banco de dados | MySQL, SQL |
+| [**Loja de Eletrônicos**](https://github.com/LipinnDEV/Loja-de-Eletronicos) | Banco de dados | MySQL, SQL |
+
+### Aplicações
 
 <details>
 <summary><b>DevFlow</b> — API REST de projetos e tarefas</summary>
@@ -98,12 +129,17 @@ API REST para gerenciamento de projetos e tarefas, com foco em Java e Spring Boo
 - Integração com banco de dados MySQL
 - Autenticação e autorização com JWT
 
-**Tecnologias:** `Java` `Spring Boot` `MySQL` `Maven`
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
+
+[Ver repositório](https://github.com/LipinnDEV/DevFlow)
 
 </details>
 
 <details>
-<summary><b>CodeSpeed Trainer</b> — treino de digitação</summary>
+<summary><b>CodeSpeed Trainer</b> — treino de digitação (em desenvolvimento)</summary>
 <br>
 
 Aplicação para treinar velocidade e precisão de digitação, acompanhando a evolução do usuário.
@@ -112,7 +148,11 @@ Aplicação para treinar velocidade e precisão de digitação, acompanhando a e
 - Registro de recordes e desempenho
 - Interface interativa para as sessões de treino
 
-**Tecnologias:** `React` `TypeScript` `JavaScript`
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+
+[Ver repositório](https://github.com/LipinnDEV/CodeSpeed-Trainer)
 
 </details>
 
@@ -126,12 +166,16 @@ Gerador de senhas em Java com interface gráfica.
 - Escolha dos tipos de caracteres
 - Botão para copiar a senha gerada
 
-**Tecnologias:** `Java` `Swing` `Maven`
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Swing-5382A1?style=flat-square" alt="Swing" />
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
+
+[Ver repositório](https://github.com/LipinnDEV/SafeKey)
 
 </details>
 
 <details>
-<summary><b>ProLife</b> — simulador de carreira</summary>
+<summary><b>ProLife</b> — simulador de carreira (em desenvolvimento)</summary>
 <br>
 
 Simulador de carreira profissional baseado em escolhas e consequências.
@@ -140,9 +184,15 @@ Simulador de carreira profissional baseado em escolhas e consequências.
 - Sistema de decisões e consequências
 - Desafios ao longo da jornada
 
-**Tecnologias:** `HTML` `CSS` `JavaScript`
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+
+[Ver repositório](https://github.com/LipinnDEV/ProLife)
 
 </details>
+
+### Bancos de dados
 
 <details>
 <summary><b>Event-Plus</b> — banco de dados de eventos</summary>
@@ -154,7 +204,10 @@ Projeto de banco de dados para gerenciar eventos, participantes, organizadores, 
 - Chaves primárias e estrangeiras
 - Restrições de integridade
 
-**Tecnologias:** `MySQL` `SQL`
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL" />
+
+[Ver repositório](https://github.com/LipinnDEV/Event-Plus)
 
 </details>
 
@@ -168,17 +221,26 @@ Projeto de banco de dados para uma loja de produtos eletrônicos.
 - Organização dos dados de produtos
 - Integridade referencial
 
-**Tecnologias:** `MySQL` `SQL`
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL" />
+
+[Ver repositório](https://github.com/LipinnDEV/Loja-de-Eletronicos)
 
 </details>
+
+<p align="right"><a href="#topo">Voltar ao topo</a></p>
 
 ---
 
 ## Contato
 
-- **LinkedIn:** [Felipe Mousinho](https://www.linkedin.com/in/felipe-da-silva-mousinho-417a85443)
-- **GitHub:** [LipinnDEV](https://github.com/LipinnDEV)
-- **E-mail:** [mousinhofelipe857@gmail.com](mailto:mousinhofelipe857@gmail.com)
+Estou em busca da minha primeira oportunidade em desenvolvimento de software. Se quiser conversar, é só me chamar por um dos canais abaixo.
+
+| Canal | Link |
+| :-- | :-- |
+| **LinkedIn** | [Felipe Mousinho](https://www.linkedin.com/in/felipe-da-silva-mousinho-417a85443) |
+| **GitHub** | [LipinnDEV](https://github.com/LipinnDEV) |
+| **E-mail** | [mousinhofelipe857@gmail.com](mailto:mousinhofelipe857@gmail.com) |
 
 <div align="center">
 
@@ -187,5 +249,7 @@ Projeto de banco de dados para uma loja de produtos eletrônicos.
 *Em constante evolução, transformando conhecimento em projetos.*
 
 <img src="https://komarev.com/ghpvc/?username=LipinnDEV&label=Visitas&color=0A66C2&style=flat" alt="Visitas ao perfil" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer" alt="" width="100%" />
 
 </div>
