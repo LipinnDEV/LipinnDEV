@@ -25,6 +25,7 @@ Blumenau, SC &nbsp;•&nbsp; Desenvolvimento de Sistemas &nbsp;•&nbsp; Em busc
 <br><br>
 
 [Sobre](#sobre-mim) •
+[Trajetória](#trajetória) •
 [Tecnologias](#tecnologias) •
 [Projetos](#projetos) •
 [Contato](#contato)
@@ -45,7 +46,19 @@ Aprendo construindo projetos práticos, aplicando:
 
 Minha vivência com suporte de sistemas me ajuda a analisar problemas com calma e a buscar soluções com método.
 
+**Estudando agora:** Java, banco de dados (MySQL), lógica de programação e desenvolvimento web.
+
 **Objetivo:** conquistar uma oportunidade em desenvolvimento de software, ampliar meus conhecimentos e colaborar em projetos reais.
+
+---
+
+## Trajetória
+
+| Período | O que faço |
+| :-- | :-- |
+| **Desde março de 2026** | **Estagiário na Prefeitura de Blumenau**, Gerência de Cobrança (SEFAZ), com atividades no sistema SIATU |
+| **Conclusão prevista em 2027** | **Ensino Médio Integrado em Desenvolvimento de Sistemas**, em Blumenau |
+| **Próximo passo** | Cursar **Engenharia de Software** depois do Ensino Médio |
 
 ---
 
