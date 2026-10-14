@@ -56,7 +56,7 @@ Minha vivência com suporte de sistemas me ajuda a analisar problemas com calma 
 
 | Período | O que faço |
 | :-- | :-- |
-| **Desde março de 2026** | **Estagiário na Prefeitura de Blumenau**, Gerência de Cobrança (SEFAZ), com atividades no sistema SIATU |
+| **Desde março de 2026** | **Estagiário em Suporte de Sistemas** na SEFAZ (Secretaria da Fazenda), Prefeitura de Blumenau |
 | **Conclusão prevista em 2027** | **Ensino Médio Integrado em Desenvolvimento de Sistemas**, em Blumenau |
 | **Próximo passo** | Cursar **Engenharia de Software** depois do Ensino Médio |
 
