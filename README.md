@@ -1,109 +1,126 @@
+<div align="center">
+
 # Felipe Mousinho
 
-<p align="center">
-  <strong>Estudante de Desenvolvimento de Sistemas | Desenvolvedor Java</strong><br>
-  Buscando estágio em desenvolvimento de software
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0A66C2&center=true&vCenter=true&width=520&lines=Estudante+de+Desenvolvimento+de+Sistemas;Foco+em+Java+e+back-end;Aprendendo+na+pr%C3%A1tica%2C+um+projeto+por+vez" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/felipe-da-silva-mousinho-417a85443">
-    <img src="https://img.shields.io/badge/LinkedIn-Conecte--se%20comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:mousinhofelipe857@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-Entre%20em%20contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
-  </a>
-</p>
+<br>
+
+📍 Blumenau, SC &nbsp;•&nbsp; 🎓 Desenvolvimento de Sistemas &nbsp;•&nbsp; 💼 Em busca de oportunidades em TI
+
+<br>
+
+<a href="https://www.linkedin.com/in/felipe-da-silva-mousinho-417a85443">
+  <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:mousinhofelipe857@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-Fale%20comigo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+</a>
+<a href="https://github.com/LipinnDEV?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios">
+</a>
+
+<br><br>
+
+[Sobre](#-sobre-mim) •
+[Tecnologias](#-tecnologias) •
+[Projetos](#-projetos) •
+[Atividade](#-atividade-no-github) •
+[Contato](#-contato)
+
+</div>
 
 ---
 
-## Sobre mim
+## 👋 Sobre mim
 
-Sou estudante de Desenvolvimento de Sistemas no SENAI Blumenau, com interesse em desenvolvimento de software, principalmente na área back-end utilizando Java.
+Sou estudante de **Desenvolvimento de Sistemas** em Blumenau, com interesse em desenvolvimento de software, principalmente **back-end com Java**.
 
-Busco evoluir por meio de projetos práticos, aplicando conceitos de programação orientada a objetos, desenvolvimento de APIs REST e bancos de dados relacionais.
+Aprendo construindo projetos práticos, aplicando:
 
-Também tenho experiência com suporte de sistemas, o que contribui para meu aprendizado na análise de problemas e na busca por soluções.
+- Programação orientada a objetos
+- Desenvolvimento de APIs REST
+- Bancos de dados relacionais
 
-Meu objetivo é conquistar uma oportunidade de estágio em desenvolvimento de software, ampliar meus conhecimentos e colaborar com projetos reais.
+Minha vivência com suporte de sistemas me ajuda a analisar problemas com calma e a buscar soluções com método.
 
-## Tecnologias e ferramentas
+🎯 **Objetivo:** conquistar uma oportunidade em desenvolvimento de software, ampliar meus conhecimentos e colaborar em projetos reais.
 
-**Back-end**
-- Java
-- Spring Boot
-- Maven
+---
 
-**Front-end**
-- JavaScript
-- TypeScript
-- React
-- HTML5
-- CSS3
+## 🛠️ Tecnologias
 
-**Banco de dados**
-- MySQL
-- SQL
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,js,ts,react,html,css,mysql,git,github,docker,idea,vscode" alt="Tecnologias" />
+</p>
 
-**Ferramentas**
-- Git
-- GitHub
-- Docker
-- IntelliJ IDEA
-- Visual Studio Code
+| Área | Tecnologias |
+| :-- | :-- |
+| **Back-end** | Java, Spring Boot, Maven |
+| **Front-end** | JavaScript, TypeScript, React, HTML5, CSS3 |
+| **Banco de dados** | MySQL, SQL |
+| **Ferramentas** | Git, GitHub, Docker, IntelliJ IDEA, Visual Studio Code |
 
-## Projetos
+---
 
-### DevFlow
+## 🚀 Projetos
 
-API REST para gerenciamento de projetos e tarefas, desenvolvida com foco em Java e Spring Boot.
+| Projeto | Descrição | Stack |
+| :-- | :-- | :-- |
+| [**DevFlow**](https://github.com/LipinnDEV/DevFlow) | API REST para gerenciar projetos e tarefas | Java • Spring Boot • MySQL |
+| [**CodeSpeed Trainer**](https://github.com/LipinnDEV/CodeSpeed-Trainer) | Treino de digitação com pontuação e recordes | React • TypeScript |
+| [**SafeKey**](https://github.com/LipinnDEV/SafeKey) | Gerador de senhas com interface gráfica | Java • Swing |
+| [**ProLife**](https://github.com/LipinnDEV/ProLife) | Simulador de carreira baseado em escolhas | HTML • CSS • JavaScript |
+| [**Event-Plus**](https://github.com/LipinnDEV/Event-Plus) | Banco de dados para gestão de eventos | MySQL • SQL |
+| [**Loja de Eletrônicos**](https://github.com/LipinnDEV/Loja-de-Eletronicos) | Banco de dados para uma loja de eletrônicos | MySQL • SQL |
 
-- Organização da aplicação em camadas
+<details>
+<summary><b>☕ DevFlow</b> — API REST de projetos e tarefas</summary>
+<br>
+
+API REST para gerenciamento de projetos e tarefas, com foco em Java e Spring Boot.
+
+- Aplicação organizada em camadas
 - Integração com banco de dados MySQL
-- Implementação de autenticação e autorização com JWT, conforme os recursos disponíveis no projeto
+- Autenticação e autorização com JWT
 
-**Tecnologias:** Java, Spring Boot, MySQL e Maven.
+**Tecnologias:** `Java` `Spring Boot` `MySQL` `Maven`
 
-### CodeSpeed Trainer
+</details>
 
-Aplicação de treinamento de digitação com foco em velocidade, precisão e evolução do usuário.
+<details>
+<summary><b>⌨️ CodeSpeed Trainer</b> — treino de digitação</summary>
+<br>
+
+Aplicação para treinar velocidade e precisão de digitação, acompanhando a evolução do usuário.
 
 - Sistema de pontuação e progressão
 - Registro de recordes e desempenho
-- Interface interativa para sessões de treinamento
+- Interface interativa para as sessões de treino
 
-**Tecnologias:** React, TypeScript e JavaScript.
+**Tecnologias:** `React` `TypeScript` `JavaScript`
 
-### SafeKey
+</details>
 
-Gerador de senhas desenvolvido em Java com interface gráfica.
+<details>
+<summary><b>🔐 SafeKey</b> — gerador de senhas</summary>
+<br>
+
+Gerador de senhas em Java com interface gráfica.
 
 - Geração de senhas personalizadas
-- Seleção de tipos de caracteres
-- Recurso para copiar senhas
+- Escolha dos tipos de caracteres
+- Botão para copiar a senha gerada
 
-**Tecnologias:** Java, Swing e Maven.
+**Tecnologias:** `Java` `Swing` `Maven`
 
-### Event-Plus
+</details>
 
-Projeto de banco de dados para gerenciamento de eventos, participantes, organizadores, categorias e inscrições.
-
-- Modelagem de dados relacionais
-- Uso de chaves primárias e estrangeiras
-- Aplicação de restrições de integridade
-
-**Tecnologias:** MySQL e SQL.
-
-### Loja de Eletrônicos
-
-Projeto de banco de dados para uma loja de produtos eletrônicos.
-
-- Modelagem de tabelas e relacionamentos
-- Organização dos dados de produtos
-- Aplicação de conceitos de integridade referencial
-
-**Tecnologias:** MySQL e SQL.
-
-### ProLife
+<details>
+<summary><b>🎮 ProLife</b> — simulador de carreira</summary>
+<br>
 
 Simulador de carreira profissional baseado em escolhas e consequências.
 
@@ -111,16 +128,61 @@ Simulador de carreira profissional baseado em escolhas e consequências.
 - Sistema de decisões e consequências
 - Desafios ao longo da jornada
 
-**Tecnologias:** HTML, CSS e JavaScript.
+**Tecnologias:** `HTML` `CSS` `JavaScript`
 
-## Contato
+</details>
 
-- **LinkedIn:** [Felipe Mousinho](https://www.linkedin.com/in/felipe-da-silva-mousinho-417a85443)
-- **GitHub:** [LipinnDEV](https://github.com/LipinnDEV)
-- **E-mail:** [mousinhofelipe857@gmail.com](mailto:mousinhofelipe857@gmail.com)
+<details>
+<summary><b>🎟️ Event-Plus</b> — banco de dados de eventos</summary>
+<br>
+
+Projeto de banco de dados para gerenciar eventos, participantes, organizadores, categorias e inscrições.
+
+- Modelagem de dados relacionais
+- Chaves primárias e estrangeiras
+- Restrições de integridade
+
+**Tecnologias:** `MySQL` `SQL`
+
+</details>
+
+<details>
+<summary><b>🛒 Loja de Eletrônicos</b> — banco de dados de loja</summary>
+<br>
+
+Projeto de banco de dados para uma loja de produtos eletrônicos.
+
+- Modelagem de tabelas e relacionamentos
+- Organização dos dados de produtos
+- Integridade referencial
+
+**Tecnologias:** `MySQL` `SQL`
+
+</details>
 
 ---
 
+## 📊 Atividade no GitHub
+
 <p align="center">
-  <i>Em constante evolução, transformando conhecimento em projetos.</i>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LipinnDEV&show_icons=true&theme=default&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipinnDEV&layout=compact&theme=default&hide_border=true" alt="Linguagens mais usadas" />
 </p>
+
+---
+
+## 📫 Contato
+
+- 💼 **LinkedIn:** [Felipe Mousinho](https://www.linkedin.com/in/felipe-da-silva-mousinho-417a85443)
+- 🐙 **GitHub:** [LipinnDEV](https://github.com/LipinnDEV)
+- ✉️ **E-mail:** [mousinhofelipe857@gmail.com](mailto:mousinhofelipe857@gmail.com)
+
+<div align="center">
+
+<br>
+
+*Em constante evolução, transformando conhecimento em projetos.*
+
+<img src="https://komarev.com/ghpvc/?username=LipinnDEV&label=Visitas&color=0A66C2&style=flat" alt="Visitas ao perfil" />
+
+</div>
