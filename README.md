@@ -1,56 +1,74 @@
-# Olá! Eu sou o Felipe 👋
+<h1 align="center">Olá, eu sou o Felipe Mousinho 👋</h1>
+<p align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas · Desenvolvedor Java<br>
+  Estagiário em Suporte de Sistemas · Construindo projetos para evoluir na prática
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+</p>
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento de software e programação Java.
+👨‍💻 Sobre mim
+Meu foco é back-end com Java e Spring Boot. Gosto de transformar o que aprendo em projetos reais: APIs REST com autenticação, modelagem de bancos de dados relacionais e interfaces web com React e TypeScript.
 
-Atualmente, estou aprimorando meus conhecimentos em Java, Spring Boot, banco de dados e desenvolvimento web, criando projetos para colocar em prática o que aprendo.
+🔭 Em foco agora: APIs REST com Spring Boot, SQL e boas práticas de código
+🌱 Estudando: POO em Java, React + TypeScript, Git e organização de projetos
+💼 Buscando: oportunidades de estágio ou vaga júnior em desenvolvimento
 
-## 🚀 Tecnologias e ferramentas
+🛠️ Tecnologias
+Back-end
+Java
+Spring Boot
+Maven
+Front-end
+JavaScript
+TypeScript
+React
+HTML5
+CSS3
+Banco de dados
+MySQL
+Ferramentas
+Git
+GitHub
+Docker
+IntelliJ IDEA
+VS Code
 
-**Linguagens**
-- Java
-- JavaScript
-- TypeScript
-- SQL
 
-**Frameworks e tecnologias**
-- Spring Boot
-- React
-- HTML e CSS
-- MySQL
+📌 Projetos em destaque
+🔹 DevFlow
+API REST para gerenciamento de projetos, tarefas e equipes.
 
-**Ferramentas**
-- Git e GitHub
-- Maven
-- Docker
-- Visual Studio Code
-- IntelliJ IDEA / NetBeans
+Autenticação com JWT
+Persistência em MySQL
+Arquitetura em camadas
+Java Spring Boot MySQL JWT
 
-## 📌 Projetos em destaque
+🔹 CodeSpeed Trainer
+Jogo de digitação focado em velocidade, precisão e prática de português.
 
-### 🔹 DevFlow
-API REST desenvolvida com Java e Spring Boot para gerenciamento de projetos e tarefas, com foco em organização, autenticação e persistência de dados.
+Sistema de pontuação e níveis
+Recordes e acompanhamento de desempenho
+React TypeScript
 
-### 🔹 CodeSpeed Trainer
-Jogo de digitação desenvolvido com React e TypeScript, com sistema de pontuação, níveis, recordes e acompanhamento de desempenho.
+🔹 ProLife
+Simulador de vida profissional em que cada decisão molda a trajetória: do iniciante ao topo da carreira, enfrentando desafios, escolhas e oportunidades.
+ADICIONE A STACK AQUI
 
-### 🔹 Event-Plus
-Projeto de banco de dados desenvolvido com MySQL para gerenciamento de eventos, participantes, organizadores e inscrições.
+🔹 Event-Plus
+Banco de dados para gerenciamento de eventos, com tabelas de categorias, organizadores, participantes, eventos e inscrições, incluindo relacionamentos, chaves e restrições.
+MySQL SQL
 
-### 🔹 Loja-eletronicos
-Projeto de banco de dados para uma loja virtual de produtos eletrônicos, utilizando SQL e relacionamentos entre tabelas.
+🔹 Loja-eletronicos
+Banco de dados para uma loja virtual de produtos de tecnologia, desenvolvido para um desafio de modelagem e relacionamentos entre tabelas.
+MySQL SQL
 
-## 📚 Atualmente estudando
 
-- Programação Orientada a Objetos com Java
-- Desenvolvimento de APIs REST com Spring Boot
-- Banco de dados relacionais e SQL
-- Desenvolvimento web com React e TypeScript
-- Boas práticas de programação e Git
+📫 Vamos conversar?
+Estou aberto a feedbacks, trocas de experiência e oportunidades.
 
-## 📫 Contato
+💼 LinkedIn: linkedin.com/in/SEU-USUARIO
+📧 E-mail: seu-email@exemplo.com
 
-- GitHub: https://github.com/LipinnDEV
-
----
-
-*Em constante aprendizado, desenvolvendo projetos e evoluindo como programador.*
+<p align="center"><i>Em constante aprendizado, desenvolvendo projetos e evoluindo como programador.</i></p>
