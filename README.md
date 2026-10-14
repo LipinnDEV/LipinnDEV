@@ -8,7 +8,7 @@
 
 <br>
 
-📍 Blumenau, SC &nbsp;•&nbsp; 🎓 Desenvolvimento de Sistemas &nbsp;•&nbsp; 💼 Em busca de oportunidades em TI
+Blumenau, SC &nbsp;•&nbsp; Desenvolvimento de Sistemas &nbsp;•&nbsp; Em busca de oportunidades em TI
 
 <br>
 
@@ -24,17 +24,17 @@
 
 <br><br>
 
-[Sobre](#-sobre-mim) •
-[Tecnologias](#-tecnologias) •
-[Projetos](#-projetos) •
-[Atividade](#-atividade-no-github) •
-[Contato](#-contato)
+[Sobre](#sobre-mim) •
+[Tecnologias](#tecnologias) •
+[Projetos](#projetos) •
+[Atividade](#atividade-no-github) •
+[Contato](#contato)
 
 </div>
 
 ---
 
-## 👋 Sobre mim
+## Sobre mim
 
 Sou estudante de **Desenvolvimento de Sistemas** em Blumenau, com interesse em desenvolvimento de software, principalmente **back-end com Java**.
 
@@ -46,11 +46,11 @@ Aprendo construindo projetos práticos, aplicando:
 
 Minha vivência com suporte de sistemas me ajuda a analisar problemas com calma e a buscar soluções com método.
 
-🎯 **Objetivo:** conquistar uma oportunidade em desenvolvimento de software, ampliar meus conhecimentos e colaborar em projetos reais.
+**Objetivo:** conquistar uma oportunidade em desenvolvimento de software, ampliar meus conhecimentos e colaborar em projetos reais.
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,maven,js,ts,react,html,css,mysql,git,github,docker,idea,vscode" alt="Tecnologias" />
@@ -65,7 +65,7 @@ Minha vivência com suporte de sistemas me ajuda a analisar problemas com calma 
 
 ---
 
-## 🚀 Projetos
+## Projetos
 
 | Projeto | Descrição | Stack |
 | :-- | :-- | :-- |
@@ -77,7 +77,7 @@ Minha vivência com suporte de sistemas me ajuda a analisar problemas com calma 
 | [**Loja de Eletrônicos**](https://github.com/LipinnDEV/Loja-de-Eletronicos) | Banco de dados para uma loja de eletrônicos | MySQL • SQL |
 
 <details>
-<summary><b>☕ DevFlow</b> — API REST de projetos e tarefas</summary>
+<summary><b>DevFlow</b> — API REST de projetos e tarefas</summary>
 <br>
 
 API REST para gerenciamento de projetos e tarefas, com foco em Java e Spring Boot.
@@ -91,7 +91,7 @@ API REST para gerenciamento de projetos e tarefas, com foco em Java e Spring Boo
 </details>
 
 <details>
-<summary><b>⌨️ CodeSpeed Trainer</b> — treino de digitação</summary>
+<summary><b>CodeSpeed Trainer</b> — treino de digitação</summary>
 <br>
 
 Aplicação para treinar velocidade e precisão de digitação, acompanhando a evolução do usuário.
@@ -105,7 +105,7 @@ Aplicação para treinar velocidade e precisão de digitação, acompanhando a e
 </details>
 
 <details>
-<summary><b>🔐 SafeKey</b> — gerador de senhas</summary>
+<summary><b>SafeKey</b> — gerador de senhas</summary>
 <br>
 
 Gerador de senhas em Java com interface gráfica.
@@ -119,7 +119,7 @@ Gerador de senhas em Java com interface gráfica.
 </details>
 
 <details>
-<summary><b>🎮 ProLife</b> — simulador de carreira</summary>
+<summary><b>ProLife</b> — simulador de carreira</summary>
 <br>
 
 Simulador de carreira profissional baseado em escolhas e consequências.
@@ -133,7 +133,7 @@ Simulador de carreira profissional baseado em escolhas e consequências.
 </details>
 
 <details>
-<summary><b>🎟️ Event-Plus</b> — banco de dados de eventos</summary>
+<summary><b>Event-Plus</b> — banco de dados de eventos</summary>
 <br>
 
 Projeto de banco de dados para gerenciar eventos, participantes, organizadores, categorias e inscrições.
@@ -147,7 +147,7 @@ Projeto de banco de dados para gerenciar eventos, participantes, organizadores, 
 </details>
 
 <details>
-<summary><b>🛒 Loja de Eletrônicos</b> — banco de dados de loja</summary>
+<summary><b>Loja de Eletrônicos</b> — banco de dados de loja</summary>
 <br>
 
 Projeto de banco de dados para uma loja de produtos eletrônicos.
@@ -162,7 +162,7 @@ Projeto de banco de dados para uma loja de produtos eletrônicos.
 
 ---
 
-## 📊 Atividade no GitHub
+## Atividade no GitHub
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=LipinnDEV&show_icons=true&theme=default&hide_border=true" alt="Estatísticas do GitHub" />
@@ -171,11 +171,11 @@ Projeto de banco de dados para uma loja de produtos eletrônicos.
 
 ---
 
-## 📫 Contato
+## Contato
 
-- 💼 **LinkedIn:** [Felipe Mousinho](https://www.linkedin.com/in/felipe-da-silva-mousinho-417a85443)
-- 🐙 **GitHub:** [LipinnDEV](https://github.com/LipinnDEV)
-- ✉️ **E-mail:** [mousinhofelipe857@gmail.com](mailto:mousinhofelipe857@gmail.com)
+- **LinkedIn:** [Felipe Mousinho](https://www.linkedin.com/in/felipe-da-silva-mousinho-417a85443)
+- **GitHub:** [LipinnDEV](https://github.com/LipinnDEV)
+- **E-mail:** [mousinhofelipe857@gmail.com](mailto:mousinhofelipe857@gmail.com)
 
 <div align="center">
 
