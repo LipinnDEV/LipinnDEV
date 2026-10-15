@@ -62,7 +62,7 @@ Também sou estagiário em suporte de sistemas na Prefeitura de Blumenau, onde l
 
 | Quando | O que aconteceu |
 | :-- | :-- |
-| **Desde março de 2026** | **Estagiário em Suporte de Sistemas** na Gerência de Cobrança da SEFAZ (Secretaria da Fazenda), Prefeitura de Blumenau |
+| **Desde março de 2026** | Estagiário em Suporte de Sistemas na SEFAZ (Secretaria da Fazenda), Prefeitura de Blumenau |
 | **2026** | Cursando o 2º ano do **Ensino Médio Integrado em Desenvolvimento de Sistemas**, no SESI Blumenau |
 | **2027** | Conclusão prevista do Ensino Médio Integrado |
 | **Depois** | Cursar **Engenharia de Software** |
