@@ -71,25 +71,6 @@ Também sou estagiário em suporte de sistemas na Prefeitura de Blumenau, onde l
 
 ---
 
-## Foco e metas
-
-**Em andamento**
-
-- Aprender Java e aprofundar meus conhecimentos em back-end
-- Desenvolver projetos como o CodeSpeed Trainer e o ProLife
-- Construir meu portfólio profissional e organizar este GitHub
-- Ganhar experiência real no estágio em suporte de sistemas
-
-**Próximas metas**
-
-- [ ] Conquistar meu primeiro emprego na área de TI
-- [ ] Concluir o Ensino Médio Integrado em Desenvolvimento de Sistemas
-- [ ] Cursar Engenharia de Software
-
-<p align="right"><a href="#topo">Voltar ao topo</a></p>
-
----
-
 ## Tecnologias
 
 | Área | Ícones | Tecnologias |
