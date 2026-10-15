@@ -41,7 +41,7 @@ Blumenau, SC &nbsp;•&nbsp; Desenvolvimento de Sistemas
 
 ## Sobre mim
 
-Olá, eu sou o Felipe, mas muita gente me chama de Lipin. Sou estudante de **Desenvolvimento de Sistemas** em Blumenau, com interesse em desenvolvimento de software, principalmente **back-end com Java**.
+Olá, eu sou o Felipe. Sou estudante de **Desenvolvimento de Sistemas** em Blumenau, com interesse em desenvolvimento de software, principalmente **back-end com Java**.
 
 Também sou estagiário em suporte de sistemas na Prefeitura de Blumenau, onde lido com problemas reais de tecnologia e aprendo a analisar situações com calma e a buscar soluções com método.
 
