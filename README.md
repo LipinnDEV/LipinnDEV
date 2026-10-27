@@ -43,15 +43,15 @@ Blumenau, SC &nbsp;•&nbsp; Desenvolvimento de Sistemas
 
 Olá, eu sou o Felipe. Sou estudante de **Desenvolvimento de Sistemas** em Blumenau, com interesse em desenvolvimento de software, principalmente **back-end com Java**.
 
-Também sou estagiário em suporte de sistemas na Prefeitura de Blumenau, onde lido com problemas reais de tecnologia e aprendo a analisar situações com calma e a buscar soluções com método.
+Também sou estagiário em suporte de sistemas na Prefeitura de Blumenau.
 
 | | |
 | :-- | :-- |
 | **Foco** | Desenvolvimento back-end com Java |
 | **Estudando agora** | Java, banco de dados (MySQL), lógica de programação e desenvolvimento web |
 | **Na prática** | Programação orientada a objetos, APIs REST e bancos de dados relacionais |
-| **Estudo** | Ensino Médio Integrado em Desenvolvimento de Sistemas, SESI Blumenau |
-| **Atualmente** | Estagiário em Suporte de Sistemas, Gerência de Cobrança da SEFAZ, Prefeitura de Blumenau |
+| **Estudo** |  Desenvolvimento de Sistemas, SENAI Blumenau |
+| **Atualmente** | Estagiário em Suporte de Sistemas da SEFAZ, Prefeitura de Blumenau |
 | **Objetivo** | Conquistar minha primeira oportunidade em TI, ampliar meus conhecimentos e colaborar em projetos reais |
 
 <p align="right"><a href="#topo">Voltar ao topo</a></p>
