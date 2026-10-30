@@ -1,4 +1,4 @@
-<a id="topo"></a>
+ <a id="topo"></a>
 
 <div align="center">
 
@@ -50,7 +50,7 @@ Também sou estagiário em suporte de sistemas na Prefeitura de Blumenau.
 | **Foco** | Desenvolvimento back-end com Java |
 | **Estudando agora** | Java, banco de dados (MySQL), lógica de programação e desenvolvimento web |
 | **Na prática** | Programação orientada a objetos, APIs REST e bancos de dados relacionais |
-| **Estudo** |  Desenvolvimento de Sistemas, SENAI Blumenau |
+| **Estudo** | Desenvolvimento de Sistemas, SENAI Blumenau |
 | **Atualmente** | Estagiário em Suporte de Sistemas da SEFAZ, Prefeitura de Blumenau |
 | **Objetivo** | Conquistar minha primeira oportunidade em TI, ampliar meus conhecimentos e colaborar em projetos reais |
 
@@ -102,6 +102,7 @@ Visão geral dos meus projetos. Clique em um deles, logo abaixo da tabela, para 
 
 <details>
 <summary><b>DevFlow</b> — API REST de projetos e tarefas</summary>
+
 <br>
 
 API REST para gerenciamento de projetos e tarefas, com foco em Java e Spring Boot.
@@ -121,6 +122,7 @@ API REST para gerenciamento de projetos e tarefas, com foco em Java e Spring Boo
 
 <details>
 <summary><b>CodeSpeed Trainer</b> — treino de digitação (em desenvolvimento)</summary>
+
 <br>
 
 Aplicação para treinar velocidade e precisão de digitação, acompanhando a evolução do usuário.
@@ -139,6 +141,7 @@ Aplicação para treinar velocidade e precisão de digitação, acompanhando a e
 
 <details>
 <summary><b>SafeKey</b> — gerador de senhas</summary>
+
 <br>
 
 Gerador de senhas em Java com interface gráfica.
@@ -157,6 +160,7 @@ Gerador de senhas em Java com interface gráfica.
 
 <details>
 <summary><b>ProLife</b> — simulador de carreira (em desenvolvimento)</summary>
+
 <br>
 
 Simulador de carreira profissional baseado em escolhas e consequências.
@@ -177,6 +181,7 @@ Simulador de carreira profissional baseado em escolhas e consequências.
 
 <details>
 <summary><b>Event-Plus</b> — banco de dados de eventos</summary>
+
 <br>
 
 Projeto de banco de dados para gerenciar eventos, participantes, organizadores, categorias e inscrições.
@@ -194,6 +199,7 @@ Projeto de banco de dados para gerenciar eventos, participantes, organizadores, 
 
 <details>
 <summary><b>Loja de Eletrônicos</b> — banco de dados de loja</summary>
+
 <br>
 
 Projeto de banco de dados para uma loja de produtos eletrônicos.
