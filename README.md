@@ -1,4 +1,4 @@
- <a id="topo"></a>
+<a id="topo"></a>
 
 <div align="center">
 
@@ -16,6 +16,9 @@ Blumenau, SC &nbsp;•&nbsp; Desenvolvimento de Sistemas
 
 <br>
 
+<a href="https://portfolio-felipe-sooty-phi.vercel.app/">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-Acesse%20o%20site-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
+</a>
 <a href="https://www.linkedin.com/in/felipe-da-silva-mousinho-417a85443">
   <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
@@ -29,8 +32,8 @@ Blumenau, SC &nbsp;•&nbsp; Desenvolvimento de Sistemas
 <br><br>
 
 [Sobre](#sobre-mim) &nbsp;|&nbsp;
+[Portfólio](#portfólio) &nbsp;|&nbsp;
 [Trajetória](#trajetória) &nbsp;|&nbsp;
-[Foco e metas](#foco-e-metas) &nbsp;|&nbsp;
 [Tecnologias](#tecnologias) &nbsp;|&nbsp;
 [Projetos](#projetos) &nbsp;|&nbsp;
 [Contato](#contato)
@@ -43,16 +46,34 @@ Blumenau, SC &nbsp;•&nbsp; Desenvolvimento de Sistemas
 
 Olá, eu sou o Felipe. Sou estudante de **Desenvolvimento de Sistemas** em Blumenau, com interesse em desenvolvimento de software, principalmente **back-end com Java**.
 
-Também sou estagiário em suporte de sistemas na Prefeitura de Blumenau.
+Também sou estagiário em suporte de sistemas na Prefeitura de Blumenau, onde aprendo na prática como a tecnologia apoia o dia a dia de uma organização.
 
 | | |
 | :-- | :-- |
 | **Foco** | Desenvolvimento back-end com Java |
-| **Estudando agora** | Java, banco de dados (MySQL), lógica de programação e desenvolvimento web |
+| **Estudando agora** | Java, Spring Boot, MySQL, lógica de programação e desenvolvimento web |
 | **Na prática** | Programação orientada a objetos, APIs REST e bancos de dados relacionais |
 | **Estudo** | Desenvolvimento de Sistemas, SENAI Blumenau |
 | **Atualmente** | Estagiário em Suporte de Sistemas da SEFAZ, Prefeitura de Blumenau |
 | **Objetivo** | Conquistar minha primeira oportunidade em TI, ampliar meus conhecimentos e colaborar em projetos reais |
+
+<p align="right"><a href="#topo">Voltar ao topo</a></p>
+
+---
+
+## Portfólio
+
+Reuni minha apresentação, tecnologias, projetos e formas de contato em um site próprio, feito com **React** e **TypeScript** e publicado.
+
+<div align="center">
+
+<a href="https://portfolio-felipe-sooty-phi.vercel.app/">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Visitar%20meu%20portf%C3%B3lio-0A66C2?style=for-the-badge" alt="Visitar meu portfólio" />
+</a>
+
+**[portfolio-felipe-sooty-phi.vercel.app](https://portfolio-felipe-sooty-phi.vercel.app/)**
+
+</div>
 
 <p align="right"><a href="#topo">Voltar ao topo</a></p>
 
@@ -63,7 +84,7 @@ Também sou estagiário em suporte de sistemas na Prefeitura de Blumenau.
 | Quando | O que aconteceu |
 | :-- | :-- |
 | **Desde março de 2026** | Estagiário em Suporte de Sistemas na SEFAZ (Secretaria da Fazenda), Prefeitura de Blumenau |
-| **2026** | Cursando o 2º ano do **Ensino Médio**, no SESI Blumenau |
+| **2026** | Cursando o Ensino Médio no SESI Blumenau e Desenvolvimento de Sistemas no SENAI Blumenau |
 | **2027** | Conclusão prevista do Ensino Médio |
 | **Depois** | Cursar **Engenharia de Software** |
 
@@ -78,7 +99,7 @@ Também sou estagiário em suporte de sistemas na Prefeitura de Blumenau.
 | **Back-end** | <img src="https://skillicons.dev/icons?i=java,spring,maven" alt="Java, Spring Boot, Maven" height="40" /> | Java, Spring Boot, Maven |
 | **Front-end** | <img src="https://skillicons.dev/icons?i=js,ts,react,html,css" alt="JavaScript, TypeScript, React, HTML5, CSS3" height="40" /> | JavaScript, TypeScript, React, HTML5, CSS3 |
 | **Banco de dados** | <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40" /> | MySQL, SQL |
-| **Ferramentas** | <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode" alt="Git, GitHub, Docker, IntelliJ IDEA, Visual Studio Code" height="40" /> | Git, GitHub, Docker, IntelliJ IDEA, Visual Studio Code |
+| **Ferramentas** | <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,vercel" alt="Git, GitHub, Docker, IntelliJ IDEA, Visual Studio Code, Vercel" height="40" /> | Git, GitHub, Docker, IntelliJ IDEA, Visual Studio Code, Vercel |
 | **Suporte e sistemas** | | Suporte de sistemas, análise e resolução de problemas |
 
 <p align="right"><a href="#topo">Voltar ao topo</a></p>
@@ -87,7 +108,7 @@ Também sou estagiário em suporte de sistemas na Prefeitura de Blumenau.
 
 ## Projetos
 
-Visão geral dos meus projetos. Clique em um deles, logo abaixo da tabela, para ver os detalhes.
+Visão geral dos meus projetos. Clique em um deles, logo abaixo da tabela, para ver os detalhes. Para ver tudo em um só lugar, visite o [meu portfólio](https://portfolio-felipe-sooty-phi.vercel.app/).
 
 | Projeto | Tipo | Stack |
 | :-- | :-- | :-- |
@@ -225,8 +246,10 @@ Estou em busca da minha primeira oportunidade em desenvolvimento de software. Se
 
 | Canal | Link |
 | :-- | :-- |
+| **Portfólio** | [portfolio-felipe-sooty-phi.vercel.app](https://portfolio-felipe-sooty-phi.vercel.app/) |
 | **LinkedIn** | [Felipe Mousinho](https://www.linkedin.com/in/felipe-da-silva-mousinho-417a85443) |
 | **GitHub** | [LipinnDEV](https://github.com/LipinnDEV) |
+| **Instagram** | [@fp.mousinho](https://instagram.com/fp.mousinho) |
 | **E-mail** | [mousinhofelipe857@gmail.com](mailto:mousinhofelipe857@gmail.com) |
 
 <div align="center">
