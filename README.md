@@ -19,7 +19,7 @@ Blumenau, SC &nbsp;•&nbsp; Desenvolvimento de Sistemas
 <a href="https://portfolio-felipe-sooty-phi.vercel.app/">
   <img src="https://img.shields.io/badge/Portf%C3%B3lio-Acesse%20o%20site-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
 </a>
-<a href="https://www.linkedin.com/in/felipe-da-silva-mousinho-417a85443">
+<a href="https://www.linkedin.com/in/felipe-da-silva-mousinho-021275419">
   <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:mousinhofelipe857@gmail.com">
@@ -247,7 +247,7 @@ Estou em busca da minha primeira oportunidade em desenvolvimento de software. Se
 | Canal | Link |
 | :-- | :-- |
 | **Portfólio** | [portfolio-felipe-sooty-phi.vercel.app](https://portfolio-felipe-sooty-phi.vercel.app/) |
-| **LinkedIn** | [Felipe Mousinho](https://www.linkedin.com/in/felipe-da-silva-mousinho-417a85443) |
+| **LinkedIn** | [Felipe Mousinho](https://www.linkedin.com/in/felipe-da-silva-mousinho-021275419) |
 | **GitHub** | [LipinnDEV](https://github.com/LipinnDEV) |
 | **Instagram** | [@fp.mousinho](https://instagram.com/fp.mousinho) |
 | **E-mail** | [mousinhofelipe857@gmail.com](mailto:mousinhofelipe857@gmail.com) |
