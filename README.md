@@ -7,7 +7,6 @@ Hello, World! 👋 Eu sou o Felipe.
 Estudante de Desenvolvimento de Sistemas e estagiário em Suporte de Sistemas na Prefeitura de Blumenau, atualmente focado em Java, Back-end e desenvolvimento de software. Explorando tecnologias modernas, desenvolvendo projetos e transformando conhecimento em código.
 
 **[portfolio-felipe-sooty-phi.vercel.app](https://portfolio-felipe-sooty-phi.vercel.app/)**
-
 ---
 
 
