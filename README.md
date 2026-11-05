@@ -23,7 +23,6 @@ Estudante de Desenvolvimento de Sistemas e estagiário em Suporte de Sistemas na
 | **Banco de dados** | <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40" /> | MySQL, SQL |
 | **Ferramentas** | <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,vercel" alt="Git, GitHub, Docker, IntelliJ IDEA, Visual Studio Code, Vercel" height="40" /> | Git, GitHub, Docker, IntelliJ IDEA, Visual Studio Code, Vercel |
 
----
 
 ## Contato
 
