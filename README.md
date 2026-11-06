@@ -15,12 +15,24 @@ Estudante de Desenvolvimento de Sistemas e estagiário em Suporte de Sistemas na
 
 ## Tecnologias
 
+### Linguagens que utilizo
+
 | Área | Ícones | Tecnologias |
 | :-- | :-- | :-- |
-| **Back-end** | <img src="https://skillicons.dev/icons?i=java,spring,maven" alt="Java, Spring Boot, Maven" height="40" /> | Java, Spring Boot, Maven |
-| **Front-end** | <img src="https://skillicons.dev/icons?i=js,ts,react,html,css" alt="JavaScript, TypeScript, React, HTML5, CSS3" height="40" /> | JavaScript, TypeScript, React, HTML5, CSS3 |
+| **Back-end** | <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" /> | Java |
+| **Front-end** | <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" /> | JavaScript |
+
+### Em estudo
+
+| Área | Ícones | Tecnologias |
+| :-- | :-- | :-- |
+| **Back-end** | <img src="https://skillicons.dev/icons?i=spring,maven" alt="Spring Boot, Maven" height="40" /> | Spring Boot, Maven |
+| **Front-end** | <img src="https://skillicons.dev/icons?i=ts,react,html,css" alt="TypeScript, React, HTML5, CSS3" height="40" /> | TypeScript, React, HTML5, CSS3 |
 | **Banco de dados** | <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40" /> | MySQL, SQL |
-| **Ferramentas** | <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,vercel" alt="Git, GitHub, Docker, IntelliJ IDEA, Visual Studio Code, Vercel" height="40" /> | Git, GitHub, Docker, IntelliJ IDEA, Visual Studio Code, Vercel |
+
+### Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,vercel" alt="Git, GitHub, Docker, IntelliJ IDEA, Visual Studio Code, Vercel" height="40" />
 
 
 ## Contato
