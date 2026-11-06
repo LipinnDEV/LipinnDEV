@@ -25,6 +25,8 @@ Estudante de Desenvolvimento de Sistemas e estagiário em Suporte de Sistemas na
 
 ### Em estudo
 
+Aprendendo na prática, colocando essas tecnologias em projetos.
+
 | Área | Ícones | Tecnologias |
 | :-- | :-- | :-- |
 | **Back-end** | <img src="https://skillicons.dev/icons?i=spring,maven" alt="Spring Boot, Maven" height="40" /> | Spring Boot, Maven |
