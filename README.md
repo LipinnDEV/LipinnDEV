@@ -21,6 +21,7 @@ Estudante de Desenvolvimento de Sistemas e estagiário em Suporte de Sistemas na
 | :-- | :-- | :-- |
 | **Back-end** | <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" /> | Java |
 | **Front-end** | <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" /> | JavaScript |
+| **Banco de dados** | <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40" /> | MySQL, SQL |
 
 ### Em estudo
 
@@ -28,7 +29,6 @@ Estudante de Desenvolvimento de Sistemas e estagiário em Suporte de Sistemas na
 | :-- | :-- | :-- |
 | **Back-end** | <img src="https://skillicons.dev/icons?i=spring,maven" alt="Spring Boot, Maven" height="40" /> | Spring Boot, Maven |
 | **Front-end** | <img src="https://skillicons.dev/icons?i=ts,react,html,css" alt="TypeScript, React, HTML5, CSS3" height="40" /> | TypeScript, React, HTML5, CSS3 |
-| **Banco de dados** | <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40" /> | MySQL, SQL |
 
 ### Ferramentas
 
