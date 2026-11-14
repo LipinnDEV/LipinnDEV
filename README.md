@@ -6,7 +6,7 @@ Hello, World! 👋 Eu sou o Felipe.
 
 Estudante de Desenvolvimento de Sistemas e estagiário em Suporte de Sistemas na Prefeitura de Blumenau, atualmente focado em Java, Back-end e desenvolvimento de software. Explorando tecnologias modernas, desenvolvendo projetos e transformando conhecimento em código.
 
-**[portfolio-felipe-sooty-phi.vercel.app](https://portfolio-felipe-sooty-phi.vercel.app/)**
+**[portfolio-felipe-sooty-phi.vercel.app](https://portfolio-felipe-8fto.vercel.app/)**
 
 ---
 
@@ -43,7 +43,7 @@ Estou em busca da minha primeira oportunidade em desenvolvimento de software. Se
 
 | Canal | Link |
 | :-- | :-- |
-| **Portfólio** | [portfolio-felipe-sooty-phi.vercel.app](https://portfolio-felipe-sooty-phi.vercel.app/) |
+| **Portfólio** | [portfolio-felipe-sooty-phi.vercel.app](https://portfolio-felipe-8fto.vercel.app/) |
 | **LinkedIn** | [Felipe Mousinho](https://www.linkedin.com/in/felipemousinho) |
 | **GitHub** | [LipinnDEV](https://github.com/LipinnDEV) |
 | **Instagram** | [@fp.mousinho](https://instagram.com/fp.mousinho) |
