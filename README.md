@@ -53,7 +53,6 @@ Estou em busca da minha primeira oportunidade em desenvolvimento de software. Se
 
 <br>
 
-*Em constante evolução, transformando conhecimento em projetos.*
 
 <img src="https://komarev.com/ghpvc/?username=LipinnDEV&label=Visitas&color=0A66C2&style=flat" alt="Visitas ao perfil" />
 
