@@ -36,7 +36,6 @@ Aprendendo na prática, colocando essas tecnologias em projetos.
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,vercel" alt="Git, GitHub, Docker, IntelliJ IDEA, Visual Studio Code, Vercel" height="40" />
 
-
 ## Contato
 
 Estou em busca da minha primeira oportunidade em desenvolvimento de software. Se quiser conversar, é só me chamar por um dos canais abaixo.
@@ -52,7 +51,6 @@ Estou em busca da minha primeira oportunidade em desenvolvimento de software. Se
 <div align="center">
 
 <br>
-
 
 <img src="https://komarev.com/ghpvc/?username=LipinnDEV&label=Visitas&color=0A66C2&style=flat" alt="Visitas ao perfil" />
 
