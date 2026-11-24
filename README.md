@@ -12,7 +12,6 @@ Estudante de Desenvolvimento de Sistemas e estagiário em Suporte de Sistemas na
 
 </div>
 
-
 ## Tecnologias
 
 ### Linguagens que utilizo
